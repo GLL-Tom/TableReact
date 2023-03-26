@@ -1,0 +1,15 @@
+th, td {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.centered {
+    text-align: center;
+    /* background-color: green; */
+}
+.right {
+    text-align: right;
+}
+
+button.sort {
+    border: 1px solid red;
+}
